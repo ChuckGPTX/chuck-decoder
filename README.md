@@ -1,3 +1,4 @@
+![Rust CI](https://github.com/ChuckGPTX/chuck-decoder/actions/workflows/rust.yml/badge.svg)
 # ChuckDecoder v1.0 🧬⚛️
 
 **Graph-Aware, Hardware-Adaptive Quantum Error Correction**
